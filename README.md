@@ -7,7 +7,6 @@
 
 
 
-- 🌱 I’m currently learning Machine learning
 
 
 
