@@ -5,22 +5,22 @@
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
 
 
+
+
+- 🌱 I’m currently learning Machine learning
+
+
+
+
 - 👋 Hi, I’m Mohd Anas
 - 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on beginner-friendly ML projects to learn and grow together.
+- 💬 Ask me anything about c++
 - 📫 contact me on my email-> mohdanas08022006@gmail.com or gq0222@myamu.ac.in
-- currently I am persuing btech in computer engineering from Aligarh Muslim University.
+- ⚡ Fun fact: I'm comming to teen
+- - currently I am persuing btech in computer engineering from Aligarh Muslim University.
 - I got Air 48 rank in Amueee exam .
 - JEE ADVANCED qualified
-
-
-- 🔭 I’m currently working on NodeJs
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Frontend
-- 📫 How to reach me: saviomartin2020@gmail.com
-- 😄 My website: https://savio.works/
-- ⚡ Fun fact: I'm comming to teen
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
