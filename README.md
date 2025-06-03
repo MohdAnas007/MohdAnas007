@@ -16,7 +16,7 @@
 - 💞️ I’m looking to collaborate on beginner-friendly ML projects to learn and grow together.
 - 💬 Ask me anything about c++
 - 📫 contact me on my email-> mohdanas08022006@gmail.com or gq0222@myamu.ac.in
-- ⚡ Fun fact: I'm comming to teen
+- ⚡ Fun fact: I'm very lazy
 - - currently I am persuing btech in computer engineering from Aligarh Muslim University.
 - I got Air 48 rank in Amueee exam .
 - JEE ADVANCED qualified
